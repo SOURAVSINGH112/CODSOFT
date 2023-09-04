@@ -38,7 +38,7 @@
             <h3>Tic tac toe</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto totam odit a dolorem voluptatem atque
                 blanditiis ipsa obcaecati dolor. Assumenda, quae! Dolorum et fugiat natus deserunt laudantium quod
-                corrupti nam praesentium sint eius nulla, nisi sapiente facere at beatae sit, neque doloremque possimus,
+                corrupti nam praesentium sint eius nulla, nisi sapiente facere at beatae sit, neque d787oloremque possimus,
             </p>
         </div>
         <div class="project">
@@ -54,7 +54,7 @@
 
     <section id="contact" class="section">
         <h2>Contact</h2>
-        <p>You can reach me at <a href="https://www.linkedin.com/in/aditya-anand-74656122b">Linkedin</a></p>
+        <p>You can reach me at <a href="">Linkedin</a></p>
     </section>
 
     <footer>
@@ -119,7 +119,7 @@
 
     <section id="contact" class="section">
         <h2>Contact</h2>
-        <p>You can reach me at <a href="https://www.linkedin.com/in/aditya-anand-74656122b">Linkedin</a></p>
+        <p>You can reach me at <a href="https://www.linkedin.com/in/sourav-singh-248774270">Linkedin</a></p>
     </section>
 
     <footer>
